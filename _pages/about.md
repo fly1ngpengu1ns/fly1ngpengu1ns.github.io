@@ -7,22 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxiao Wu, a Eng.D. candidate at Tsinghua University, under the supervision of xxx.
+I am Yuxiao Wu, a Eng.D. candidate at Tsinghua University, under the supervision of Professor [Baojun Liu](https://netsec.ccert.edu.cn/people/baojun/) and [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/).
+
+Education
+======
+- 2025 - Current: Eng.D. candidate in Institute for Network Sciences and Cyberspace, Tsinghua University
+- 2021 - 2025: B.E. in Information Security, [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST)
 
 Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- DNS Security
+- Network Traffic Analysis
+- AI Security
 
 News
 ======
-- Register a GitHub account if you don't have one and confirm your e-mail (required!)
-- Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-- Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-- Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-- Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+- [2025.10] I have obtained three CVEs from well-known DNS software vendors: [CVE-2024-40778](https://kb.isc.org/docs/cve-2025-40778) (BIND9), [CVE-2025-11411](https://www.nlnetlabs.nl/downloads/unbound/CVE-2025-11411.txt) (Unbound), and [CVE-2025-59023](https://docs.powerdns.com/recursor/security-advisories/powerdns-advisory-2025-06.html) (PowerDNS).
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Publications
+======
+1. [Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation](https://fly1ngpengu1ns.github.io/publications/)
+<br>Jialai Wang, **Yuxiao Wu**, Weiye Xu, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang
+<br>To appear in *Computer Vision and Pattern Recognition (CVPR’25)*, Nashville, TN, USA, JUNE 11–15 2025
+
+2. [Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features](https://fly1ngpengu1ns.github.io/publications/)
+<br>Jialai Wang, Chao Zhang, Longfei Chen, Yi Rong, **Yuxiao Wu**, Hao Wang, Wende Tan, Qi Li, Zongpeng Li
+<br>To appear in *the 33rd USENIX Security Symposium (USENIX Security’24)*, Philadelphia, PA, USA, AUGUST 14–16 2024
