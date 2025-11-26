@@ -1,0 +1,22 @@
+---
+title: "Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking"
+collection: publications
+category: conferences
+permalink: /publication/ndss26-bailiwick
+excerpt: '**Yuxiao Wu***, Yunyi Zhang*, Chaoyi Lu, Baojun Liu'
+date: 2026-02-23
+venue: 'The Network and Distributed System Security (NDSS’26)'
+paperurl: 'https://fly1ngpengu1ns.github.io/publications/'
+# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+Abstract: 
+---
+DNS cache poisoning attacks covertly hijack domain access by injecting forged resource records into resolvers. To counter this, resolvers employ bailiwick checking, a critical defense mechanism designed to filter potentially malicious records from DNS responses. However, in the context of third-party services, a misalignment between domain ownership and the traditional, top-down zone delegation model has emerged, posing significant challenges to the effectiveness of bailiwick checks.
+
+In this paper, we present a systematic analysis of the design and implementation of bailiwick checking. We demonstrated that mainstream resolvers generally adopt a conservatism principle: *they will cache any resource record that satisfies minimal constraints, regardless of its direct relevance to the originating query*. Building on this finding, we propose a novel cache poisoning attack (termed *Cuckoo Domain*): by controlling one single subdomain, attackers can compromise its parent domain or its sibling domains.
+The results of our testing revealed that seven major DNS resolver implementations, including BIND9 and Microsoft DNS, are vulnerable. 
+Through a large-scale measurement study, we confirmed that 44.64\% of open resolvers and 21 major public DNS providers are also at risk. In addition, we found that over a million subdomains provided by 7 providers—including No-IP, ClouDNS,  and Akamai—are potentially vulnerable to hijacking through this attack.
+We have conducted a responsible disclosure, reporting the affected software vendors and service providers.
+BIND9, Unbound, PowerDNS and Technitium have acknowledged our reports and assigned 3 CVEs.
+We call upon the community and software vendors to address the new challenges that modern service ecosystems pose to the effectiveness of bailiwick checking.
