@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/cvpr25-flip-s
 excerpt: 'Jialai Wang, **Yuxiao Wu**, Weiye Xu, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang'
 date: 2025-06-11
-venue: 'Computer Vision and Pattern Recognition (CVPR’25)'
+venue: 'Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Your_Scale_Factors_are_My_Weapon_Targeted_Bit-Flip_Attacks_on_CVPR_2025_paper.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

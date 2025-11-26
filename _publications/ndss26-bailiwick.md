@@ -3,9 +3,9 @@ title: "Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS
 collection: publications
 category: conferences
 permalink: /publication/ndss26-bailiwick
-excerpt: '**Yuxiao Wu***, Yunyi Zhang*, Chaoyi Lu, Baojun Liu'
+excerpt: '**Yuxiao Wu\***, Yunyi Zhang\*, Chaoyi Lu, Baojun Liu'
 date: 2026-02-23
-venue: 'The Network and Distributed System Security (NDSS’26)'
+venue: 'The Network and Distributed System Security (NDSS)'
 paperurl: 'https://fly1ngpengu1ns.github.io/publications/'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/sec24-delta-cfg
 excerpt: 'Jialai Wang, Chao Zhang, Longfei Chen, Yi Rong, **Yuxiao Wu**, Hao Wang, Wende Tan, Qi Li, Zongpeng Li'
 date: 2024-08-14
-venue: 'the 33rd USENIX Security Symposium (USENIX Security’24)'
+venue: 'the 33rd USENIX Security Symposium (USENIX Security)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.usenix.org/system/files/usenixsecurity24-wang-jialai.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
