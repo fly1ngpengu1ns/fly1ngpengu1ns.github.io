@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Yuxiao Wu / Home"
+title: "Homepage"
 title_separator: "-"
 name: &name "Yuxiao Wu"
 description: &description "Eng.D. candidate at Tsinghua University"

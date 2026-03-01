@@ -22,12 +22,14 @@ Research Interests
 
 News
 ======
+- [2026.02] Our paper about DNS Bailiwick has won the Distinguished Paper Award at NDSS 26!
 - [2025.11] Our paper "Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking" has been accepted by NDSS 26!
 - [2025.10] I have obtained three CVEs from well-known DNS software vendors: [CVE-2024-40778](https://kb.isc.org/docs/cve-2025-40778) (BIND9), [CVE-2025-11411](https://www.nlnetlabs.nl/downloads/unbound/CVE-2025-11411.txt) (Unbound), and [CVE-2025-59023](https://docs.powerdns.com/recursor/security-advisories/powerdns-advisory-2025-06.html) (PowerDNS).
 
 Publications
 ======
 1. [Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking](https://fly1ngpengu1ns.github.io/publications/)
+<br>🏆<font color=Red>**Distinguished Paper Award**</font>
 <br>**Yuxiao Wu\***, Yunyi Zhang\*, Chaoyi Lu, Baojun Liu
 <br>To appear in *The Network and Distributed System Security (NDSS’26)*, San Diego, CACA, USA, FEBRUARY 23–27 2026
 

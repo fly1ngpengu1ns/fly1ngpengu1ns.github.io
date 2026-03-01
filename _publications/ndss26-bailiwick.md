@@ -6,7 +6,7 @@ permalink: /publication/ndss26-bailiwick
 excerpt: '**Yuxiao Wu\***, Yunyi Zhang\*, Chaoyi Lu, Baojun Liu'
 date: 2026-02-23
 venue: 'The Network and Distributed System Security (NDSS)'
-paperurl: 'https://fly1ngpengu1ns.github.io/publications/'
+paperurl: 'https://www.ndss-symposium.org/ndss-paper/should-i-trust-you-rethinking-the-principle-of-zone-based-isolation-dns-bailiwick-checking/'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
