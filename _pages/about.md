@@ -29,7 +29,7 @@ News
 Publications
 ======
 1. [Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking](https://fly1ngpengu1ns.github.io/publications/)
-<br>🏆<font color=Red>**Distinguished Paper Award**</font>
+<br>🏆<font color=Red><b>Distinguished Paper Award</b></font>
 <br>**Yuxiao Wu\***, Yunyi Zhang\*, Chaoyi Lu, Baojun Liu
 <br>To appear in *The Network and Distributed System Security (NDSS’26)*, San Diego, CACA, USA, FEBRUARY 23–27 2026
 
