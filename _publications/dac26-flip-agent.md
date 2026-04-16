@@ -12,3 +12,4 @@ paperurl: 'https://fly1ngpengu1ns.github.io/publications/'
 
 Abstract: 
 ---
+Targeted bit-flip attacks (BFAs) exploit hardware faults to manipulate model parameters, posing a significant security threat. While prior work targets single-step inference models (e.g., image classifiers), LLM-based agents with multi-stage pipelines and external tools present new attack surfaces, which remain unexplored. This work introduces Flip-Agent, the first targeted BFA framework for LLM-based agents, manipulating both final outputs and tool invocations. Our experiments show that Flip-Agent significantly outperforms existing targeted BFAs on real-world agent tasks, revealing a critical vulnerability in LLM-based agent systems.

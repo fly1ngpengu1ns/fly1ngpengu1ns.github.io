@@ -31,12 +31,16 @@ Publications
 1. [Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking](https://fly1ngpengu1ns.github.io/publications/)
 <br>🏆<font color=Red><b>Distinguished Paper Award</b></font>
 <br>**Yuxiao Wu\***, Yunyi Zhang\*, Chaoyi Lu, Baojun Liu
-<br>To appear in *The Network and Distributed System Security (NDSS’26)*, San Diego, CACA, USA, FEBRUARY 23–27 2026
+<br>To appear in *The Network and Distributed System Security (NDSS’26)*, San Diego, CA, USA, FEBRUARY 23–27 2026
 
-2. [Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation](https://fly1ngpengu1ns.github.io/publications/)
+2. [Targeted Bit-flip Attacks on LLM-Based Agents](https://fly1ngpengu1ns.github.io/publications/)
+<br>Jialai Wang, Ya Wen, Zhongmou Liu, **Yuxiao Wu**, Bingyi He, Zongpeng Li, Ee-Chien Chang
+<br>To appear in *63rd ACM/IEEE Design Automation Conference (DAC ’26)*, Long Beach, CA, USA, JULY 26–29 2026
+
+3. [Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation](https://fly1ngpengu1ns.github.io/publications/)
 <br>Jialai Wang, **Yuxiao Wu**, Weiye Xu, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang
 <br>To appear in *Computer Vision and Pattern Recognition (CVPR’25)*, Nashville, TN, USA, JUNE 11–15 2025
 
-3. [Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features](https://fly1ngpengu1ns.github.io/publications/)
+4. [Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features](https://fly1ngpengu1ns.github.io/publications/)
 <br>Jialai Wang, Chao Zhang, Longfei Chen, Yi Rong, **Yuxiao Wu**, Hao Wang, Wende Tan, Qi Li, Zongpeng Li
 <br>To appear in *the 33rd USENIX Security Symposium (USENIX Security’24)*, Philadelphia, PA, USA, AUGUST 14–16 2024
